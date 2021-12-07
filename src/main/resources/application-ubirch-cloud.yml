@@ -12,4 +12,4 @@ spring:
   redis:
     host:  ${DGC_REDIS_URL}
     port: ${DGC_REDIS_PORT}
-    password: ${DGC_REDIS_PASWORD}
+    password: ${DGC_REDIS_PASSWORD}
