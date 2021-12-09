@@ -9,7 +9,7 @@ spring:
     password: ${DGC_POSTGRES_PASSWORD}
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQLDialect
-  redis:
-    host:  ${DGC_REDIS_URL}
-    port: ${DGC_REDIS_PORT}
-    password: ${DGC_REDIS_PASSWORD}
+#  redis:
+#    host:  ${DGC_REDIS_URL}
+#    port: ${DGC_REDIS_PORT}
+#    password: ${DGC_REDIS_PASSWORD}
